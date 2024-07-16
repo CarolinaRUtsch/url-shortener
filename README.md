@@ -15,7 +15,7 @@ Este projeto é um serviço de encurtamento de URLs construído com NestJS. Ele 
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/url-shortener.git
+   git clone git@github.com:CarolinaRUtsch/url-shortener.git
    cd url-shortener
    ```
 
