@@ -10,8 +10,6 @@ Este projeto é um serviço de encurtamento de URLs construído com NestJS. Ele 
 - [Scripts Disponíveis](#scripts-disponíveis)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Testes](#testes)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## Instalação
 
